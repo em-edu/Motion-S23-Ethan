@@ -406,3 +406,6 @@ textarea {
   justify-content: center;
   align-items: center;
 }
+#content > div #star, #content > div #circ {
+  visibility: hidden;
+}
